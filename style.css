@@ -52,7 +52,8 @@ header{
 }
 /* Mengatur lebar menu 20% dengan background hitam */
 aside{
-    flex: 15%;
+    flex: 5%;
+    
     background: #2f6982;
 }
 /* Mengatur lebar konten utama 80% dengan background putih */
@@ -65,9 +66,9 @@ section.main{
 }
 /* Mengatur footer dengan background abu-abu dan teks di tengah */
 footer {
-    background: #ffffff;
-    color: #555;
-    padding: 20px;
+    /* background: #ececec;
+    color: #555; */
+    padding: 75px;
     text-align: center;
 }
 /* Mengatur layout pada layar kecil (responsive) */
