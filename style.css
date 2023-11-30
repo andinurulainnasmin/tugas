@@ -52,8 +52,8 @@ header{
 }
 /* Mengatur lebar menu 20% dengan background hitam */
 aside{
-    flex: 20%;
-    background: #222;
+    flex: 15%;
+    background: #2f6982;
 }
 /* Mengatur lebar konten utama 80% dengan background putih */
 section.main{
@@ -96,7 +96,7 @@ footer {
 }
 /* Mengganti background menu ketika ditunjuk mouse */
 .menu a:hover{
-    background: #000;
+    background: #1f4657;
 }
 /* Tabel */
 /* Mengatur desain judul halaman dengan border di bawah */
